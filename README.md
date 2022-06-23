@@ -1,2 +1,2 @@
 # Steam-Store-Free-Game-Reviews---Data-Analysis
-Link to presentation: https://onedrive.live.com/view.aspx?resid=32A916A9CBA020F1!1022&ithint=file%2cpptx&authkey=!ALTg8Nnv5S_kC5g
+Link to presentation: https://docs.google.com/presentation/d/1Nv_D82Ibrdb7ujWcUgJ5f4QpwKZcuCRt/edit?usp=sharing&ouid=115984410803460110676&rtpof=true&sd=true
